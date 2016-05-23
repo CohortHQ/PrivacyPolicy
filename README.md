@@ -25,26 +25,26 @@ We use this information to build, maintain and improve the Cohort service. We do
 3.  Any data that’s generated from your use of Cohort belongs to Cohort, as optimal operation of the service relies on it, but it will be available for you to download at any time. While this is not yet a feature, it is planned. In the meantime, if you want a copy of your usage data, please email [privacy@cohort.is](mailto:privacy@cohort.is)
 4.  Here is a list of all the things we currently collect on you and your use of Cohort
 
-1.  Personal data, that is publicly available already - this forms a baseline social graph of relationships that you have
+*  Personal data, that is publicly available already - this forms a baseline social graph of relationships that you have
 
-1.  Public Twitter
+-  Public Twitter
 
-1.  Private data, that you have given us access to - this helps us understand more about who is important to you, and what they know.
+*  Private data, that you have given us access to - this helps us understand more about who is important to you, and what they know.
 
-1.  Google email
-2.  Private Twitter
-3.  Phone contacts
+-  Google email
+-  Private Twitter
+-  Phone contacts
 
-1.  Personal use data - this helps us learn from how you interact with your network and it enables us to make better recommendations with a higher probability of successful outcome for all involved
+*  Personal use data - this helps us learn from how you interact with your network and it enables us to make better recommendations with a higher probability of successful outcome for all involved
 
-1.  All in app actions related to opportunities and opportunity feedback, relationship recommendations and selection
+-  All in app actions related to opportunities and opportunity feedback, relationship recommendations and selection
 
-1.  Anonymous use data - this helps us provide optimal operational service
+*  Anonymous use data - this helps us provide optimal operational service
 
-1.  Error, Exception, Crash tracking and reporting
-2.  Aggregate workflow usage
+-  Error, Exception, Crash tracking and reporting
+-  Aggregate workflow usage
 
-9.  We store all data using industry standard, best practices on storage and encryption.
-10.  Access to Cohort’s systems is monitored, and limited to operational staff only.
-11.  We will always ask for your consent before using information for a purpose other than those set out in this Privacy Policy.
-12.  This policy is a living document. We are happy to discuss updates that can improve our users experience. This document lives on [GitHub](https://github.com/CohortHQ/PrivacyPolicy).
+5. We store all data using industry standard, best practices on storage and encryption.
+6.  Access to Cohort’s systems is monitored, and limited to operational staff only.
+7.  We will always ask for your consent before using information for a purpose other than those set out in this Privacy Policy.
+8.  This policy is a living document. We are happy to discuss updates that can improve our users experience. This document lives on [GitHub](https://github.com/CohortHQ/PrivacyPolicy).
