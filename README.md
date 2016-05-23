@@ -25,24 +25,24 @@ We use this information to build, maintain and improve the Cohort service. We do
 3.  Any data that’s generated from your use of Cohort belongs to Cohort, as optimal operation of the service relies on it, but it will be available for you to download at any time. While this is not yet a feature, it is planned. In the meantime, if you want a copy of your usage data, please email [privacy@cohort.is](mailto:privacy@cohort.is)
 4.  Here is a list of all the things we currently collect on you and your use of Cohort
 
-*  Personal data, that is publicly available already - this forms a baseline social graph of relationships that you have
+    1. Personal data, that is publicly available already - this forms a baseline social graph of relationships that you have
 
--  Public Twitter
+      1. Public Twitter
 
-*  Private data, that you have given us access to - this helps us understand more about who is important to you, and what they know.
+    2. Private data, that you have given us access to - this helps us understand more about who is important to you, and what they know.
 
--  Google email
--  Private Twitter
--  Phone contacts
+      1. Google email
+      2. Private Twitter
+      3. Phone contacts
 
-*  Personal use data - this helps us learn from how you interact with your network and it enables us to make better recommendations with a higher probability of successful outcome for all involved
+    3. Personal use data - this helps us learn from how you interact with your network and it enables us to make better recommendations with a higher probability of successful outcome for all involved
 
--  All in app actions related to opportunities and opportunity feedback, relationship recommendations and selection
+      1. All in app actions related to opportunities and opportunity feedback, relationship recommendations and selection
 
-*  Anonymous use data - this helps us provide optimal operational service
+    4. Anonymous use data - this helps us provide optimal operational service
 
--  Error, Exception, Crash tracking and reporting
--  Aggregate workflow usage
+      1. Error, Exception, Crash tracking and reporting
+      2. Aggregate workflow usage
 
 5. We store all data using industry standard, best practices on storage and encryption.
 6.  Access to Cohort’s systems is monitored, and limited to operational staff only.
